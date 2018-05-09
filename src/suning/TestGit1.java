@@ -15,19 +15,13 @@ package suning;
  * 类说明
  */
 public class TestGit1 {
-	
-	
-	
-	
-	
-	
 	public static void main(String[] args) {
 		String  aa="33";
-		System.out.println("haa");
-		System.out.println("这测试");
-		System.out.println("zhege");
+		System.out.println("444haa");
+		System.out.println("这444测试");
+		System.out.println("zh44ege");
 		int   a=3;
-		System.out.println("hahaha");
+		System.out.println("h44ahaha");
 	}
 
 }
