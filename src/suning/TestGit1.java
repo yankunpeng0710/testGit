@@ -25,9 +25,9 @@ public class TestGit1 {
 		String  aa="33";
 		System.out.println("haa");
 		System.out.println("这测试");
-		System.out.println("zhege");
+		System.out.println("zh22ege");
 		int   a=3;
-		System.out.println("hahaha");
+		System.out.println("ha22haha");
 	}
 
 }
