@@ -23,6 +23,8 @@ public class TestGit1 {
 		System.out.println("haa");
 		System.out.println("这测试");
 		System.out.println("zh22ege");
+		
+		System.out.println("测试一");
 		int a3=2;
 		int   a=3;
 		System.out.println("h44ahaha");
