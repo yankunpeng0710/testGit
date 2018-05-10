@@ -24,6 +24,8 @@ public class TestGit1 {
 		System.out.println("这测试");
 		System.out.println("zh22ege");
 		int   a=3;
+		
+		int  gg=4;
 		System.out.println("h44ahaha");
 	}
 
