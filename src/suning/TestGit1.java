@@ -27,7 +27,16 @@ public class TestGit1 {
 		System.out.println("测试一");
 		int a3=2;
 		int   a=3;
+		
+		System.out.println("测试8");
 		System.out.println("h44ahaha");
+		
+		
+		int   ara=4;
+		
+		
+		
+		String  yan="33";
 	}
 
 }
