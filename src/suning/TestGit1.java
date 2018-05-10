@@ -17,12 +17,15 @@ package suning;
 public class TestGit1 {
 	public static void main(String[] args) {
 		String  aa="33";
+		System.out.println("444haa");
+		System.out.println("这444测试");
+		System.out.println("zh44ege");
 		System.out.println("haa");
 		System.out.println("这测试");
 		System.out.println("zh22ege");
 		int a3=2;
 		int   a=3;
-		System.out.println("ha22haha");
+		System.out.println("h44ahaha");
 	}
 
 }
