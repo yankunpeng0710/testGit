@@ -15,12 +15,6 @@ package suning;
  * 类说明
  */
 public class TestGit1 {
-	
-	
-	
-	
-	
-	
 	public static void main(String[] args) {
 		String  aa="33";
 		System.out.println("haa");
