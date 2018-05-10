@@ -26,6 +26,7 @@ public class TestGit1 {
 		System.out.println("haa");
 		System.out.println("这测试");
 		System.out.println("zh22ege");
+		int a3=2;
 		int   a=3;
 		System.out.println("ha22haha");
 	}
