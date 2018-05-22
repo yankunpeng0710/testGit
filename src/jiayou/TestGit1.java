@@ -1,4 +1,4 @@
-package suning;
+package jiayou;
 /*
  * Copyright (C), 2002-2018, 苏宁易购电子商务有限公司
  * FileName: TestGit1.java
